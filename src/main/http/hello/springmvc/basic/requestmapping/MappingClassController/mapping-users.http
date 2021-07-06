@@ -1,0 +1,19 @@
+### GET request with a header
+GET http://localhost:8080/mapping/users
+Accept: text/html
+
+###
+POST http://localhost:8080/mapping/users
+Accept: text/html
+
+### GET request with a header
+GET http://localhost:8080/mapping/users/userA
+Accept: text/html
+
+###
+PATCH http://localhost:8080/mapping/users/userA
+Accept: text/html
+
+###
+DELETE http://localhost:8080/mapping/users/userA
+Accept: text/html
