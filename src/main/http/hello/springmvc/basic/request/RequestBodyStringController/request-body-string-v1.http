@@ -1,0 +1,22 @@
+POST http://localhost:8080/request-body-string-v1
+Accept: text/html
+
+hello
+
+###
+POST http://localhost:8080/request-body-string-v2
+Accept: text/html
+
+hello
+
+###
+POST http://localhost:8080/request-body-string-v3
+Accept: text/html
+
+hello
+
+###
+POST http://localhost:8080/request-body-string-v4
+Accept: text/html
+
+hello
